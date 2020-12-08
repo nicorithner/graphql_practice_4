@@ -28,8 +28,12 @@
     "@babel/register": "^7.12.1",
     "@babel/runtime": "^7.12.5",
     "babel-loader": "^8.2.2",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
     "eslint": "^7.15.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint-plugin-import": "^2.22.1",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0"
   }
 }
